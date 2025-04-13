@@ -16,8 +16,8 @@ Every want to put everything to fidget with in part on a pcb?
 
 ## things to say
 - Battery Usage minimal: 2 CR2032 Watch Batteries!
-- Pokemon Pictures Everywhere!
 
+  
 ## BOM																
 1 Vibrating Motor
 
