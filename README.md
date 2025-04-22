@@ -3,19 +3,22 @@
 Every want to put everything to fidget with in part on a pcb?
 
 ## Schematic
-![image](https://github.com/user-attachments/assets/55f1b1a4-db52-4d0b-b148-215a463e1f73)
+![image](https://github.com/user-attachments/assets/4dbc657f-a10a-428e-a446-347afdb0752b)
 
 ## PCB
-![image](https://github.com/user-attachments/assets/2dcff74a-a8da-46f2-af67-c30760bb70d1)
-![image](https://github.com/user-attachments/assets/cbe5187d-f0bc-460f-8cc9-363b29bc5fd5)
+![image](https://github.com/user-attachments/assets/936db9f3-f5e0-4b78-8108-9a38c17fdd41)
+![image](https://github.com/user-attachments/assets/d6cb010f-db2a-4dd0-899a-3164ffaf5a51)
 
 
 ## 3D
-![image](https://github.com/user-attachments/assets/0b979c07-59fc-48e2-9904-c6dd458655e6)
-![image](https://github.com/user-attachments/assets/87ab35f1-9d52-4f3d-be7c-ff88cb1de531)
+![image](https://github.com/user-attachments/assets/b0951988-b684-46d7-affe-74ea857d28ff)
+![image](https://github.com/user-attachments/assets/2d3ca917-5343-468f-aa26-e311439d0ff7)
+
+
 
 ## things to say
 - Battery Usage minimal: 2 CR2032 Watch Batteries!
+- Fidgeting thing!
 
   
 ## BOM																
