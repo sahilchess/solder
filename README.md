@@ -3,16 +3,16 @@
 Every want to put everything to fidget with in part on a pcb?
 
 ## Schematic
-![image](https://github.com/user-attachments/assets/4dbc657f-a10a-428e-a446-347afdb0752b)
+![image](https://github.com/user-attachments/assets/7d0cf7c7-e9cb-4776-adb3-be66ded7d392)
 
 ## PCB
-![image](https://github.com/user-attachments/assets/936db9f3-f5e0-4b78-8108-9a38c17fdd41)
-![image](https://github.com/user-attachments/assets/d6cb010f-db2a-4dd0-899a-3164ffaf5a51)
+![image](https://github.com/user-attachments/assets/1ed46c09-723d-4ed3-9004-277a50b7c537)
+![image](https://github.com/user-attachments/assets/882fe5e6-21dc-4af3-b229-676f8b6b39c0)
 
 
 ## 3D
-![image](https://github.com/user-attachments/assets/b0951988-b684-46d7-affe-74ea857d28ff)
-![image](https://github.com/user-attachments/assets/2d3ca917-5343-468f-aa26-e311439d0ff7)
+![image](https://github.com/user-attachments/assets/7f0216b3-3032-4f2b-bffe-08fe02c6542f)
+![image](https://github.com/user-attachments/assets/10b7cc43-2f25-440d-9b81-89e48059a703)
 
 
 
